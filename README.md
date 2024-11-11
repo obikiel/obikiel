@@ -1,6 +1,11 @@
-## Hi there 👋, I am Chijindu Obioma
+## I am Chijindu Obioma
+
+![Snapchat-1737813180](https://github.com/user-attachments/assets/515cffcd-35f9-43e3-ad18-08ec21cfe8c5)
+
 
 ### Backend Developer, Cloud Engineer and Devops Engineer
+
+
 
 
 
