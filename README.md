@@ -1,9 +1,15 @@
 ## I am Chijindu Obioma
 
-![Snapchat-1737813180](https://github.com/user-attachments/assets/515cffcd-35f9-43e3-ad18-08ec21cfe8c5)
 
 
 ### Backend Developer, Cloud Engineer and Devops Engineer
+
+#### Reach me on
+
+[![Twitter](https://img.shields.io/badge/Twitter-@Chriscrea8-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/ChijinduObioma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Chukwu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chijindu-obioma-48a129151/)
+[![GitHub](https://img.shields.io/badge/GitHub-Chriscrea8-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/obikiel)
+[![Email](https://img.shields.io/badge/Email-chris@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ezekielobiomachi1@gmail.com)
 
 
 
